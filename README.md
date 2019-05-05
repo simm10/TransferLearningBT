@@ -15,8 +15,8 @@ Celý obsah je potrebné stiahnúť a všetky súbory, okrem zložky logs, vlož
  * BB.h5 - váhy izolovaného viactriedneho modelu
  * MTLB.h5 - váhy viactriedneho modelu s preneseným učením
  * logs - štrukturovaný zip súbor so záznamami TensorBoard
- 	- logsBinary - záznamy binárnych modelov v TensorBoard
-  * logsMulticlass - záznamy viactriednych modelov v TensorBoard
+ 	 - logsBinary - záznamy binárnych modelov v TensorBoard
+   - logsMulticlass - záznamy viactriednych modelov v TensorBoard
 Zip súbor logs obsahuje záznami z trénovania jednotlivých modelov ako boli prezentované v texte práce.
   
 Skript sa spúšťa z príkazovej riadky príkazom: 
