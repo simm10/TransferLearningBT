@@ -14,9 +14,9 @@ Zároveň je nutné mať vedľa súboru run.py mať zložku nazvanú models, kam
   * [model viactriednej klasifikácie s preneseným učením](https://www.google.com)
   
 Skript sa spúšťa z príkazovej riadky príkazom: 
-  * python run.py <model> <operácia>
+  * python run.py \<model\> <operácia>
   
-dostupné možnosti pre hodnotu <model>:
+dostupné možnosti pre hodnotu \<model\>:
   * binary - pre modely binárnej klasifikácie
   * multiclass - pre modely viactriednej klasifikácie
   
