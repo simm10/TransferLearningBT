@@ -5,7 +5,7 @@ Skript Run.py obsahuje metódy na trénovanie a testovanie navrhnutých architek
 Pred spustením je nutné upraviť skript na miestach označených ako "Change it"
   * DATASET_DIR - cesta k datasetu, tu sú dve možnosti podľa voľby binárnej alebo viactriednej klasifikácie, je potrebné zadať správnu
                 cestu ku správnemu datasetu
-  *THIS_DIR - plná cesta, kde je uložený súbor run.py
+  * THIS_DIR - plná cesta, kde je uložený súbor run.py
 
 Zároveň je nutné mať vedľa súboru run.py mať zložku nazvanú models, kam sa umiestnia pretrénované modely, prípadne kam sa bude ukladať model počas procesu trénovania. Tie je možné stiahnúť z nižšie uvedených odkazov
   * [izolovaný model binárnej klasifikácie](https://www.google.com)
