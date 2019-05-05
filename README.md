@@ -1,5 +1,5 @@
 # TransferLearningBT
-Repozitár obsahuje finálne zdrojové kódy, ktoré boli použité pri realizácií bakalárskej práce ako aj záznamy TensorBoard.
+Repozitár obsahuje finálne zdrojové kódy, ktoré boli použité pri realizácií bakalárskej práce.
 
 Skript Run.py obsahuje metódy na trénovanie a testovanie navrhnutých architektúr
 Pred spustením je nutné upraviť skript na miestach označených ako "Change it"
@@ -7,7 +7,7 @@ Pred spustením je nutné upraviť skript na miestach označených ako "Change i
                 cestu ku správnemu datasetu
   * THIS_DIR - plná cesta, kde je uložený súbor run.py
 
-Zároveň je nutné mať vedľa súboru run.py mať zložku nazvanú models, kam sa umiestnia pretrénované modely, prípadne kam sa bude ukladať model počas procesu trénovania. Tie je možné stiahnúť z nižšie uvedených odkazov
+Zároveň je nutné mať vedľa súboru run.py mať zložku nazvanú logs a zložku nazvanú models, kam sa umiestnia pretrénované modely, prípadne kam sa bude ukladať model počas procesu trénovania. Tie je možné stiahnúť z nižšie uvedených odkazov
   * [izolovaný model binárnej klasifikácie](https://www.google.com)
   * [model binárnej klasifikácie s preneseným učením](https://www.google.com)
   * [izolovaný model viactriednej klasifikácie](https://www.google.com)
