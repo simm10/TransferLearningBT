@@ -17,6 +17,7 @@ Celý obsah je potrebné stiahnúť a všetky súbory, okrem zložky logs, vlož
  * logs - štrukturovaný zip súbor so záznamami TensorBoard
  	 - logsBinary - záznamy binárnych modelov v TensorBoard
    - logsMulticlass - záznamy viactriednych modelov v TensorBoard
+   
 Zip súbor logs obsahuje záznami z trénovania jednotlivých modelov ako boli prezentované v texte práce.
   
 Skript sa spúšťa z príkazovej riadky príkazom: 
